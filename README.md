@@ -2,14 +2,14 @@ RFM Customer Segmentation & Marketing Strategy Analysis
 
 ![RFM Customer Segmentation](images/segment_heatmap.png)
 
-Project Overview
+## Project Overview
 
 This project focuses on customer segmentation using RFM (Recency, Frequency, Monetary) analysis on real-world retail transaction data.
 The objective is to understand customer purchasing behavior and design data-driven marketing campaign strategies.
 
 Rather than only segmenting customers, this project translates behavioral insights into actionable business decisions.
 
-Business Problem
+## Business Problem
 
 Companies interact with customers who exhibit different purchasing patterns and value levels. Applying the same marketing strategy to all customers leads to inefficient resource allocation.
 
@@ -23,7 +23,7 @@ Design personalized marketing campaigns
 
 Support retention and revenue optimization strategies
 
-Dataset
+## Dataset
 
 Dataset: Online Retail Dataset (Real-world anonymized transactional data)
 
@@ -40,7 +40,7 @@ Methodology
 
 The analysis follows an end-to-end customer analytics workflow.
 
-1. Data Preparation
+## 1. Data Preparation
 
 Missing customer IDs removed
 
@@ -48,7 +48,7 @@ Product returns filtered (negative quantities)
 
 Transaction value calculated (BasketPrice)
 
-2. Customer Aggregation
+## 2. Customer Aggregation
 
 Transactions aggregated at customer level:
 
@@ -58,7 +58,7 @@ Frequency → Purchase count
 
 Recency Proxy → Last purchase date
 
-3. RFM Scoring
+## 3. RFM Scoring
 
 Customers were scored using quantile-based segmentation:
 
@@ -70,7 +70,7 @@ M Score (Monetary)
 
 Scores range from 1–5.
 
-4. Customer Segmentation
+## 4. Customer Segmentation
 
 Customers were grouped into behavioral profiles:
 
@@ -142,7 +142,7 @@ Personalized campaigns improve marketing efficiency.
 
 Data-driven segmentation enables targeted growth strategies.
 
-Technologies Used
+## Technologies Used
 
 Python
 
@@ -162,6 +162,12 @@ Marketing strategy recommendations
 
 Actionable segmentation insights
 
+## Author
+
+İskender Andaç  
+Yıldız Technical University – Statistics (Senior Year)
+
+This project was developed as an end-to-end customer analytics case study focusing on RFM-based customer segmentation and marketing strategy design using real-world retail transaction data.
 
 ## Data Source
 
