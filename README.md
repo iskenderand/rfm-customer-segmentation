@@ -1,3 +1,5 @@
+![RFM Customer Segmentation](images/segment_heatmap.png)
+
 RFM Customer Segmentation & Marketing Strategy Analysis
 Project Overview
 
