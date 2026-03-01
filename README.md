@@ -160,6 +160,12 @@ Customer intelligence
 
 Marketing strategy recommendations
 
+Actionable segmentation insights
+
+Author
+
+Developed as a customer analytics case study focusing on business-oriented data analysis and marketing applications.
+
 ## Data Source
 
 The dataset used in this project is the **Online Retail Dataset**, publicly available on Kaggle:
@@ -167,9 +173,3 @@ The dataset used in this project is the **Online Retail Dataset**, publicly avai
 https://www.kaggle.com/datasets/vijayuv/onlineretail
 
 The dataset contains anonymized transactional records from a UK-based online retail store.
-
-Actionable segmentation insights
-
-Author
-
-Developed as a customer analytics case study focusing on business-oriented data analysis and marketing applications.
