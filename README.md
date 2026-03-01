@@ -160,6 +160,14 @@ Customer intelligence
 
 Marketing strategy recommendations
 
+## Data Source
+
+The dataset used in this project is the **Online Retail Dataset**, publicly available on Kaggle:
+
+https://www.kaggle.com/datasets/vijayuv/onlineretail
+
+The dataset contains anonymized transactional records from a UK-based online retail store.
+
 Actionable segmentation insights
 
 Author
