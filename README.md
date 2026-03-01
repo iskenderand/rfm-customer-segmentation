@@ -1,6 +1,7 @@
+RFM Customer Segmentation & Marketing Strategy Analysis
+
 ![RFM Customer Segmentation](images/segment_heatmap.png)
 
-RFM Customer Segmentation & Marketing Strategy Analysis
 Project Overview
 
 This project focuses on customer segmentation using RFM (Recency, Frequency, Monetary) analysis on real-world retail transaction data.
