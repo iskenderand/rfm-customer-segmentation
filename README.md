@@ -25,18 +25,19 @@ Support retention and revenue optimization strategies
 
 ## Dataset
 
-Dataset: Online Retail Dataset (Real-world anonymized transactional data)
+**Dataset:** Online Retail Dataset (Real-world anonymized transactional data)
 
 The dataset contains retail transactions from an online UK-based store and includes customer purchases across multiple countries.
 
-Key Variables
-Variable	Description
-CustomerID	Unique customer identifier
-InvoiceDate	Transaction date
-Quantity	Number of purchased items
-UnitPrice	Price per product
-Country	Customer location
-Methodology
+### Key Variables
+
+| Variable     | Description                     |
+|-------------|---------------------------------|
+| CustomerID  | Unique customer identifier      |
+| InvoiceDate | Transaction date                |
+| Quantity    | Number of purchased items       |
+| UnitPrice   | Price per product               |
+| Country     | Customer location               |
 
 The analysis follows an end-to-end customer analytics workflow.
 
