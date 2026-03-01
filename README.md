@@ -75,11 +75,13 @@ Scores range from 1–5.
 
 Customers were grouped into behavioral profiles:
 
-Segment	Description
-Champions	Active and highly loyal customers
-New Customers	Recently acquired customers
-Old Customers	Previously loyal but less recent
-Lost Customers	Low engagement customers
+| Segment | Description |
+|---------|-------------|
+| Champions | Active and highly loyal customers |
+| New Customers | Recently acquired customers |
+| Old Customers | Previously loyal but less recent |
+| Lost Customers | Low engagement customers |
+
 Segment Insights
 Revenue Contribution by Segment
 
