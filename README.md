@@ -120,9 +120,9 @@ Lost Customers	Strong win-back campaigns
 
 This transforms analysis into a decision-support framework.
 
-Visual Insights
+##Visual Insights
 
-## The project includes:
+The project includes:
 
 Segment distribution heatmap
 
