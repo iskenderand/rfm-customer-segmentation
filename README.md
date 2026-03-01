@@ -84,7 +84,7 @@ Revenue Contribution by Segment
 
 Customer segments contribute differently to overall revenue.
 
-Key observation:
+## Key observation:
 
 High-value segments generate disproportionate revenue compared to their population size.
 
@@ -92,7 +92,7 @@ Geographic Customer Structure
 
 Customer loyalty varies significantly across countries.
 
-A heatmap analysis shows:
+## A heatmap analysis shows:
 
 Some markets contain higher Champion ratios
 
@@ -110,7 +110,7 @@ Average purchase frequency differs across countries, revealing varying engagemen
 
 Marketing Campaign Strategy
 
-Instead of stopping at segmentation, tailored campaigns were assigned:
+## Instead of stopping at segmentation, tailored campaigns were assigned:
 
 Segment	Campaign Strategy
 Champions	VIP benefits and loyalty rewards
@@ -122,7 +122,7 @@ This transforms analysis into a decision-support framework.
 
 Visual Insights
 
-The project includes:
+## The project includes:
 
 Segment distribution heatmap
 
