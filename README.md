@@ -8,8 +8,7 @@ Rather than only segmenting customers, this project translates behavioral insigh
 
 Business Problem
 
-Companies interact with customers who exhibit different purchasing patterns and value levels.
-Applying the same marketing strategy to all customers leads to inefficient resource allocation.
+Companies interact with customers who exhibit different purchasing patterns and value levels. Applying the same marketing strategy to all customers leads to inefficient resource allocation.
 
 This project aims to:
 
@@ -25,9 +24,7 @@ Dataset
 
 Dataset: Online Retail Dataset (Real-world anonymized transactional data)
 
-Contains retail transactions from an online UK-based store.
-
-Includes customer purchases across multiple countries.
+The dataset contains retail transactions from an online UK-based store and includes customer purchases across multiple countries.
 
 Key Variables
 Variable	Description
@@ -36,11 +33,11 @@ InvoiceDate	Transaction date
 Quantity	Number of purchased items
 UnitPrice	Price per product
 Country	Customer location
-⚙️ Methodology
+Methodology
 
-The analysis follows an end-to-end customer analytics workflow:
+The analysis follows an end-to-end customer analytics workflow.
 
-1️. Data Preparation
+1. Data Preparation
 
 Missing customer IDs removed
 
@@ -48,7 +45,7 @@ Product returns filtered (negative quantities)
 
 Transaction value calculated (BasketPrice)
 
-2️. Customer Aggregation
+2. Customer Aggregation
 
 Transactions aggregated at customer level:
 
@@ -58,7 +55,7 @@ Frequency → Purchase count
 
 Recency Proxy → Last purchase date
 
-3️. RFM Scoring
+3. RFM Scoring
 
 Customers were scored using quantile-based segmentation:
 
@@ -70,16 +67,15 @@ M Score (Monetary)
 
 Scores range from 1–5.
 
-4️. Customer Segmentation
+4. Customer Segmentation
 
 Customers were grouped into behavioral profiles:
 
 Segment	Description
-Champions	Active & highly loyal customers
+Champions	Active and highly loyal customers
 New Customers	Recently acquired customers
 Old Customers	Previously loyal but less recent
 Lost Customers	Low engagement customers
-
 Segment Insights
 Revenue Contribution by Segment
 
@@ -114,8 +110,8 @@ Marketing Campaign Strategy
 Instead of stopping at segmentation, tailored campaigns were assigned:
 
 Segment	Campaign Strategy
-Champions	VIP benefits & loyalty rewards
-New Customers	Onboarding & welcome offers
+Champions	VIP benefits and loyalty rewards
+New Customers	Onboarding and welcome offers
 Old Customers	Re-engagement incentives
 Lost Customers	Strong win-back campaigns
 
@@ -157,10 +153,12 @@ Project Outcome
 
 This project demonstrates how transactional data can be transformed into:
 
- Customer intelligence
- Marketing strategy recommendations
- Actionable segmentation insights
+Customer intelligence
 
-👤 Author
+Marketing strategy recommendations
+
+Actionable segmentation insights
+
+Author
 
 Developed as a customer analytics case study focusing on business-oriented data analysis and marketing applications.
