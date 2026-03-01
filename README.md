@@ -100,17 +100,17 @@ Others show higher churn risk (Lost Customers)
 
 This indicates marketing strategies should be localized by region.
 
-Revenue Contribution by Country
+## Revenue Contribution by Country
 
 Revenue is concentrated in specific geographic markets, highlighting core business regions.
 
-Customer Loyalty Intensity
+## Customer Loyalty Intensity
 
 Average purchase frequency differs across countries, revealing varying engagement levels.
 
-Marketing Campaign Strategy
+## Marketing Campaign Strategy
 
-## Instead of stopping at segmentation, tailored campaigns were assigned:
+Instead of stopping at segmentation, tailored campaigns were assigned:
 
 Segment	Campaign Strategy
 Champions	VIP benefits and loyalty rewards
