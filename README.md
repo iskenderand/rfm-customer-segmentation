@@ -162,9 +162,6 @@ Marketing strategy recommendations
 
 Actionable segmentation insights
 
-Author
-
-Developed as a customer analytics case study focusing on business-oriented data analysis and marketing applications.
 
 ## Data Source
 
